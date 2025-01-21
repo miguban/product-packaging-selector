@@ -1,4 +1,4 @@
-<h4><b>PRODUCT PACKAGING SELECTOR</b></h4>
+<h4><b>SIMPLE PRODUCT PACKAGING SELECTOR</b></h4>
 
 <hr>
 
@@ -15,12 +15,24 @@
     <li>Pull <i>Product Packaging Selector</i> files</li>
     <li>Rename .env.example file to .env inside the project root</li>
     <li>Open the console and cd the project root directory</li>
-    <li>Run composer install</li>
-    <li>Run php artisan key:generate</li>
-    <li>Run php artisan serve</li>
-    <li>You can now access the project at localhost:8000 (or 127.0.1:8000)</li>
+    <li>Run <code>composer install</code></li>
+    <li>Run <code>php artisan key:generate</code></li>
+    <li>Run <code>php artisan serve</code></li>
+    <li>You can now access the project at localhost:8000 (<i>or</i> 127.0.1:8000)</li>
 </ul>
 
 <hr>
-<h5><b>VIEW THE APP ONLINE</b></h5>
-<p>Alternatively, you may access the app at <a href="https://pps.mclegaspi.site">https://pps.mclegaspi.site</a></p>
+
+<h5><b>VIEW ONLINE</b></h5>
+<p>If encountering errors running locally, alternatively, you may access the app at <a href="https://pps.mclegaspi.site">https://pps.mclegaspi.site</a></p>
+
+<hr>
+
+<h5><b>HOW TO USE</b></h5>
+<p>Enter values as show below:</p>
+<img src="https://pps.mclegaspi.site/pps-i.jpg" style="width: 25em;" />
+<p>View results upon submission of product specs:</p>
+<img src="https://pps.mclegaspi.site/pps-r2.jpg" style="width: 24em;" />
+
+<hr>
+<p>For comments or feedback, please get in touch via <a href="mailto:miguelclegaspi.jr@gmail.com">miguelclegaspi.jr@gmail.com</a></p>
